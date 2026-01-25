@@ -10,7 +10,7 @@ Send to numbers or usernames (not saved in contacts), grab group members, bulk i
 
 ---
 
-## ✨ Key Features (Short)
+## ✨ Key Features
 - Send messages to **Numbers & Usernames** (not saved in contacts)  
 - Send messages to **All Joined Groups**  
 - **Username & Number Filter** (check availability)  
