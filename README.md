@@ -26,12 +26,6 @@ Send to numbers or usernames (not saved in contacts), grab group members, bulk i
 
 ---
 
-## ⚙️ Quick Install & Run
-1. Clone the repo:
-```bash
-git clone https://github.com/engrshuvodas/TGTools-1.0.0.git
-
-
 ### 👨‍💻 Developed By
 **Engr Shuvo Das**
 
