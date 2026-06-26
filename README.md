@@ -31,7 +31,7 @@ Send to numbers or usernames (not saved in contacts), grab group members, bulk i
 
 | Platform | Link |
 | :--- | :--- |
-| **WhatsApp** | [Chat Now](https://wa.me/+8801765245872) |
+| **WhatsApp** | [Chat Now](https://wa.me/+919641700503) |
 | **LinkedIn** | [Profile](https://www.linkedin.com/in/engrshuvoda/) |
 | **YouTube** | [Channel](https://www.youtube.com/channel/UCEJ0R871tF2PLT27q9azYWg) |
 | **GitHub** | [Repositories](https://github.com/engrshuvodas) |
