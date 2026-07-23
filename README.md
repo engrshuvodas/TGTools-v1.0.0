@@ -15,12 +15,7 @@
 [![Status](https://img.shields.io/badge/status-Active-success?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/license-Commercial-orange?style=for-the-badge)](#)
 
-<br>
 
-### 🎉 **Free Trial Available — Try Before You Buy!**
-*No risk. No commitment. Just real results.* 💼✨
-
-<br>
 
 ---
 
@@ -32,7 +27,7 @@
 
 <br>
 
-# 👉 [**GET TGTOOLS FREE TRIAL**](https://www.fiverr.com/s/jjxAD1Z) 👈
+# 👉 [**GET TGTOOLS FREE TRIAL**](https://tgtools-pro.vercel.app) 👈
 
 ### 🎁 Grab your **Free Trial** instantly — see it in action before you buy.
 
