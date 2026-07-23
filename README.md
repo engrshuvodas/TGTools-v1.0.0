@@ -253,7 +253,7 @@ Ready to unlock the full version, source code, or reseller rights? Reach out dir
 
 <div align="center">
 
-[![Get Free Trial](https://img.shields.io/badge/⬇️_Get_Free_Trial-fiverr.com-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=000000)](https://www.fiverr.com/s/jjxAD1Z)
+[![Download Free Trial](https://img.shields.io/badge/⬇️_Download_Free_Trial-tgtools--pro.vercel.app-25D366?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://tgtools-pro.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/Message_+919641700503-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+919641700503)
 
 </div>
