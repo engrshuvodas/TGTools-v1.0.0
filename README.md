@@ -203,13 +203,13 @@ Buy the **Reseller Package** and get complete control over your own TGTools busi
 
 **Activation & Key Generator** — customers activate with a unique code; you generate keys instantly with custom validity.
 
-<img src="./Screenshot/china%20version/Keygen%20for%20activation%20key/Activation%20key%20and%20keygen.png" alt="TGTools Activation Key and KeyGen System" width="90%">
+<img src="./Screenshot/Keygen for activation key/Activation key and keygen.png" alt="TGTools Activation Key and KeyGen System" width="90%">
 
 <br><br>
 
 **Full Source Code** — complete project files, setup installer, and documentation included with the reseller package.
 
-<img src="./Screenshot/china%20version/Keygen%20for%20activation%20key/TGTools%20Source%20Code.png" alt="TGTools Full Source Code" width="90%">
+<img src="./Screenshot/Keygen for activation key/TGTools Source Code.png" alt="TGTools Full Source Code" width="90%">
 
 </div>
 
