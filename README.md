@@ -170,6 +170,53 @@ Whether you're searching for a **Telegram mass messaging tool**, a **Telegram au
 
 <br>
 
+## 🔑 Reseller Activation Key System & Full Source Code
+
+Buy the **Reseller Package** and get complete control over your own TGTools business — generate unlimited activation keys for your customers **and** receive the **full source code** to customize, rebrand, and resell as your own product.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔐 Built-in Key Generator (KeyGen)**
+- Generate unlimited **Activation Codes** for customers
+- Set custom **validity period** (e.g. 365 days)
+- Each key tied to a unique **Product Purchase Code**
+- Instant activation — no server or hosting needed
+- Full control over who can use the software
+
+</td>
+<td width="50%" valign="top">
+
+**💻 Full Source Code Included**
+- Complete **TG Full Source Code** (C# / .NET project)
+- Setup installer project (`TGToolsSetUp.msi`)
+- Built-in **KeyGen module** source
+- Full **Developer & User Documentation** (HTML docs)
+- Learn how to install, activate, resell & customize
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Activation & Key Generator** — customers activate with a unique code; you generate keys instantly with custom validity.
+
+<img src="./Screenshot/china%20version/Keygen%20for%20activation%20key/Activation%20key%20and%20keygen.png" alt="TGTools Activation Key and KeyGen System" width="90%">
+
+<br><br>
+
+**Full Source Code** — complete project files, setup installer, and documentation included with the reseller package.
+
+<img src="./Screenshot/china%20version/Keygen%20for%20activation%20key/TGTools%20Source%20Code.png" alt="TGTools Full Source Code" width="90%">
+
+</div>
+
+> 💡 **In short:** buy the Reseller Package once, get the **full source code + your own KeyGen tool**, and start selling TGTools as **your own branded product** — activate customers instantly, no third-party dependency.
+
+<br>
+
 ## 💼 Who Is This For?
 
 | Audience | Use Case |
