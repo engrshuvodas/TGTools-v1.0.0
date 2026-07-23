@@ -38,7 +38,7 @@
 
 <br>
 
-[![Get Free Trial](https://img.shields.io/badge/⬇️_GET_FREE_TRIAL-fiverr.com-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=000000)](https://www.fiverr.com/s/jjxAD1Z)
+[![Download Now](https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-tgtools--pro.vercel.app-25D366?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://tgtools-pro.vercel.app/)
 
 <br>
 
